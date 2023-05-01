@@ -30,7 +30,6 @@ jobs:
         pip install --upgrade pip
     - name: Install dependencies
       run: 
-        pip install build
         pip install rankgun
         pip install aiohttp
         pip install asyncio
