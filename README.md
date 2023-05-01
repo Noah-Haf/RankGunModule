@@ -1,7 +1,7 @@
 # RankGun V2.0.6
 
 
-![build](https://github.com/Noah-Haf/RankGunModule/workflows/build/badge.svg)
+https://github.com/Noah-Haf/RankGunModule/actions/workflows/tests.yml/badge.svg
 
 An API wrapper for the RankGun API.
 
